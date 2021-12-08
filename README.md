@@ -1,6 +1,6 @@
 # doctoral_thesis
 This repository contains the PDF of my doctoral thesis and all supplementary materials. The fulltext version is available via this link:
-https://www.publicatie-online.nl/publicaties/stefan-elbers/pdf/ Password: 154771
+https://www.publicatie-online.nl/publicaties/stefan-elbers/ Password: 154771
 
 The following 6 chapters have been published in peer reviewed journals:
 
